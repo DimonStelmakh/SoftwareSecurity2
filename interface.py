@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import filedialog, messagebox, ttk, TclError
+from tkinter import filedialog, messagebox
 
 from system import EncryptionDES, DES
 
